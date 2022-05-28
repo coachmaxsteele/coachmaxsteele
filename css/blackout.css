@@ -1,0 +1,27 @@
+
+@font-face {
+    font-family: "blackoutmidnight";
+    src: url("../webfonts/blackout_midnight-webfont.eot");
+    src: url("../webfonts/blackout_midnight-webfont.woff") format("woff"),
+    url("../webfonts/blackout_midnight-webfont.ttf") format("truetype"),
+    url("../webfonts/blackout_midnight-webfont.svg") format("svg");
+    font-feature-settings: "kern";
+}
+
+@font-face {
+        font-family: "blackoutsunrise";
+        src: url("../webfonts/blackout_sunrise-webfont.eot");
+        src: url("../webfonts/blackout_sunrise-webfont.woff") format("woff"),
+        url("../webfonts/blackout_sunrise-webfont.ttf") format("truetype"),
+        url("../webfonts/blackout_sunrise-webfont.svg") format("svg");
+        font-feature-settings: "kern";
+}
+
+@font-face {
+        font-family: "blackouttwo_am";
+        src: url("../webfonts/blackout_two_am-webfont.eot");
+        src: url("../webfonts/blackout_two_am-webfont.woff") format("woff"),
+        url("../webfonts/blackout_two_am-webfont.ttf") format("truetype"),
+        url("../webfonts/blackout_two_am-webfont.svg") format("svg");
+        font-feature-settings: "kern";
+}
