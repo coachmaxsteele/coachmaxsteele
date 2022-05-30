@@ -52,5 +52,11 @@ h6 { font-size: 1.5rem; line-height: 1.6;  letter-spacing: 0; }
 button.xp {
   width: 100%;
   color: #333;
-  background-image: linear-gradient(to right, black, 17%);
+  background: linear-gradient(
+    90deg
+    , rgba(100, 50, 150, .5) 0%
+    , rgba(100, 50, 150, .5) 13.7%
+    , rgba(100, 100, 150, 0) 13.7%
+    , rgba(100, 100, 150, 0) 100%
+  );
 }
