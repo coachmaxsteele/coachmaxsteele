@@ -1,0 +1,56 @@
+
+/* Base Styles
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+h1 {
+  font-family: "blackoutsunrise", Helvetica, Arial, sans-serif;
+  color: #222;
+  font-feature-settings: "kern";
+}
+h2 {
+  font-family: "blackoutmidnight", Helvetica, Arial, sans-serif;
+  color: #222;
+}
+h3 {
+  font-family: "blackouttwo_am", Helvetica, Arial, sans-serif;
+  color: #222;
+}
+
+/* Typography
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+h1, h2, h3, h4, h5, h6 {
+  margin-top: 0;
+  margin-bottom: 2rem;
+  font-weight: 300; }
+h1 { font-size: 10.0rem; line-height: 0.9;  letter-spacing: 0;}
+h2 { font-size: 5rem; line-height: 1; letter-spacing: 0; }
+h3 { font-size: 3.0rem; line-height: 1;  letter-spacing: 0; }
+h4 { font-size: 2.4rem; line-height: 1.35; letter-spacing: 0; }
+h5 { font-size: 1.8rem; line-height: 1.5;  letter-spacing: 0; }
+h6 { font-size: 1.5rem; line-height: 1.6;  letter-spacing: 0; }
+
+/* Larger than phablet */
+@media (min-width: 550px) {
+  h1 { font-size: 17vw; }
+  h2 { font-size: 5rem; }
+  h3 { font-size: 3.6rem; }
+  h4 { font-size: 3.0rem; }
+  h5 { font-size: 2.4rem; }
+  h6 { font-size: 1.5rem; }
+}
+
+/* Buttons
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+.button {
+  width:100%;
+}
+
+@media (min-width: 550px) {
+  .button { width: auto;}
+}
+
+button.xp {
+  width: 100%;
+  color: #333;
+  background-image: linear-gradient(to right, black, 17%);
+}
