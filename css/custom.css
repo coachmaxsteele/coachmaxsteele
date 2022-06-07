@@ -22,7 +22,7 @@ h1, h2, h3, h4, h5, h6 {
   margin-top: 0;
   margin-bottom: 2rem;
   font-weight: 300; }
-h1 { font-size: 9.0rem; line-height: 0.9;  letter-spacing: 0;}
+h1 { font-size: 8.5rem; line-height: 0.9;  letter-spacing: 0;}
 h2 { font-size: 5rem; line-height: 1; letter-spacing: 0; }
 h3 { font-size: 3.0rem; line-height: 1;  letter-spacing: 0; }
 h4 { font-size: 2.4rem; line-height: 1.35; letter-spacing: 0; }
@@ -55,8 +55,8 @@ button.xp {
   background: linear-gradient(
     90deg
     , rgba(100, 50, 150, .5) 0%
-    , rgba(100, 50, 150, .5) 13.7%
-    , rgba(100, 100, 150, 0) 13.7%
+    , rgba(100, 50, 150, .5) 13.9%
+    , rgba(100, 100, 150, 0) 13.9%
     , rgba(100, 100, 150, 0) 100%
   );
 }
